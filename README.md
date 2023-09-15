@@ -7,11 +7,9 @@
 ## <picture>  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> </picture> 
 <p align="rigth"> <img src="https://komarev.com/ghpvc/?username=kmilodeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="kmilodeveloper" /> </p>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
-
-
 ## 📫 **kmilodeveloper@gmail.com**
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 40px>  </picture> Herramientas y Tecnologias
 
@@ -20,6 +18,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,java,spring,mysql,postman,vscode,eclipse" />
   </a>
 </p>
+
 
 ## <h3 align="left">Contacto</h3>
 <p align="left">
