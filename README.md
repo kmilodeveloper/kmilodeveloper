@@ -9,16 +9,20 @@
 
 ## 📫 **kmilodeveloper@gmail.com**
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 40px>  </picture> Herramientas y Tecnologias
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,java,spring,mysql,postman,vscode,eclipse" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
   </a>
 </p>
-
+<p align="left">
+  <img align="left" src="https://skillicons.dev/icons?i=java,spring,mysql,postman,vscode,eclipse" />
+</p>
+<br>
+<br>
 
 ## <h3 align="left">Contacto</h3>
 <p align="left">
